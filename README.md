@@ -1,5 +1,7 @@
 # Olá! Eu sou Emanuelle Leal 👩‍💻
-
+<p align="center">
+  <img src="./banner-github.png" alt="Banner de Emanuelle Leal" width="100%">
+</p>
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
 Transformando ideias em projetos através do código e explorando novas possibilidades na tecnologia. ✨
